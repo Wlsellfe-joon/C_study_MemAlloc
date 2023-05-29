@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//2nd version
 void main(int argc, char** argv) {
 	int x, y;
 	int** arr;
